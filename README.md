@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshuman+Sahu;Frontend+Developer+%F0%9F%9A%80;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher+%F0%9F%93%84;National+Level+Athlete+%F0%9F%8F…" alt="Typing SVG" />
 </h1>
 
+
 <h3 align="center">✨ Turning complex UI/UX requirements into production-ready, high-performance web experiences ✨</h3>
 
 <br/>
