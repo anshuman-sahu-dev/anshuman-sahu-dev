@@ -1,136 +1,164 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anshuman+Sahu;Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher;National+Level+Athlete" alt="Typing SVG" />
-</h1>
+<!-- HEADER - Cyberpunk Robotics Vibe -->
+<div align="center">
 
-<h3 align="center">✨ Turning complex UI/UX requirements into production-ready, high-performance web experiences ✨</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&height=80&lines=%3E+INITIALIZING...+ANSHUMAN+SAHU;%3E+FRONTEND+DEVELOPER+%2F%2F+LOADING;%3E+REACT.JS+%7C+JS+%7C+TAILWIND+CSS;%3E+IEEE+RESEARCHER+%2F%2F+VERIFIED;%3E+NATIONAL+ATHLETE+%2F%2F+UNLOCKED" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=2000&color=00BFFF&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Turning+complex+UI%2FUX+into+production-ready+%7C+high-performance+web+experiences+%E2%9A%99%EF%B8%8F" alt="Subtitle" />
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshuman-sahu-dev&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/anshuman-sahu-dev?label=Followers&style=flat-square&color=00ff9c" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Brahmapur%2C%20Odisha%20🇮🇳-blue?style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=anshuman-sahu-dev&label=PROFILE+SCANS&color=00ff9c&style=flat-square" />
+<img src="https://img.shields.io/github/followers/anshuman-sahu-dev?label=FOLLOWERS&style=flat-square&color=00bfff" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ff9c?style=flat-square" />
+<img src="https://img.shields.io/badge/BASE-BRAHMAPUR%2C_ODISHA_🇮🇳-0080ff?style=flat-square" />
+
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+<!-- ABOUT ME -->
+## ⚡ `SYS://ABOUT_ME`
+
+```
+ ██████╗ ██████╗ ███╗   ███╗███████╗     ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗
+██╔════╝██╔═══██╗████╗ ████║██╔════╝    ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝
+██║     ██║   ██║██╔████╔██║█████╗      ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗  
+██║     ██║   ██║██║╚██╔╝██║██╔══╝      ██║   ██║██║╚██╗██║██║     ██║██║╚██╗██║██╔══╝  
+╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗    ╚██████╔╝██║ ╚████║███████╗██║██║ ╚████║███████╗
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝     ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+```
 
 ```javascript
-const anshuman = {
-  name        : "Anshuman Sahu",
-  location    : "Brahmapur, Odisha, India 🇮🇳",
-  education   : "B.Tech CSE @ NIST University (2022–2026) | CGPA: 6.89",
-  role        : "Frontend Developer",
-  experience  : "Frontend Developer Intern @ Gwing Software Pvt. Ltd., Bangalore",
-  research    : "IEEE Scopus Published Researcher 📄",
-  speciality  : [
-                  "Responsive Web Applications",
-                  "React.js Component Libraries",
-                  "AI-powered UI Features",
-                  "Performance Optimization"
-                ],
-  achievements: {
-    performance : "40% faster load times",
-    engagement  : "30% increase in user engagement",
-    conversion  : "25% boost in conversion rates",
-    abandonment : "20% reduction in cart abandonment"
+// >> SYSTEM BOOT: ANSHUMAN_SAHU.exe
+// >> LOADING PROFILE DATA...
+
+const ANSHUMAN = {
+  DESIGNATION   : "Frontend Developer",
+  BASE_LOCATION : "Brahmapur, Odisha, India 🇮🇳",
+  UNIT          : "NIST University | B.Tech CSE (2022–2026) | CGPA: 6.89",
+  CLEARANCE     : "IEEE Scopus Published Researcher 📄",
+  LAST_MISSION  : "Frontend Dev Intern @ Gwing Software Pvt. Ltd., Bangalore",
+
+  CORE_MODULES  : [
+    "Responsive Web Applications",
+    "React.js Component Libraries",
+    "AI-powered UI Features",
+    "Performance Optimization"
+  ],
+
+  BATTLE_STATS  : {
+    SPEED_BOOST    : "40% faster load times ⚡",
+    ENGAGEMENT_UP  : "30% increase in user engagement 📈",
+    CONVERSION_UP  : "25% boost in conversion rates 💰",
+    ABANDON_DOWN   : "20% reduction in cart abandonment 🛒"
   },
-  currentProject : "Centralized Alumni Engagement & Networking Portal",
-  funFact        : "National-level athlete 🏅 — discipline on the field, clean code at the desk!"
+
+  ACTIVE_MISSION : "Centralized Alumni Engagement & Networking Portal",
+  SECRET_WEAPON  : "National-level athlete 🏅 — discipline on the field, clean code at the desk!"
 };
+
+// >> PROFILE LOADED SUCCESSFULLY ✅
 ```
 
 <br/>
 
-- 🔭 Currently building a **Centralized Alumni Engagement & Networking Portal** serving **1,000+ users**
-- 💼 Ex **Frontend Developer Intern @ Gwing Software Pvt. Ltd., Bangalore**
-- 📄 **IEEE Scopus Published** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education*
-- 🌱 Currently advancing in **TypeScript · Next.js · System Design**
-- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, DOM Manipulation, AI-integrated UIs**
-- 🏅 **National-level athlete** — discipline, leadership & teamwork beyond the screen
-- ⚡ Fun fact: **I optimize code the same way I train — no shortcuts, just results!**
+- 🔭 `[ACTIVE]` Building **Alumni Engagement & Networking Portal** → serving **1,000+ users**
+- 💼 `[COMPLETED]` Frontend Dev Intern **@ Gwing Software Pvt. Ltd., Bangalore**
+- 📄 `[PUBLISHED]` IEEE Scopus — *Emotion Centric AI Intervention for Experiential Learning*
+- 🌱 `[UPGRADING]` TypeScript · Next.js · System Design
+- 💬 `[ASK ME]` React.js · JavaScript · Tailwind CSS · DOM Manipulation · AI-integrated UIs
+- 🏅 `[UNLOCKED]` National-level athlete — leadership & teamwork beyond the screen
+- ⚡ `[FUN_FACT]` I optimize code the same way I train — **no shortcuts, just results!**
 
 ---
 
-## 🌐 Connect With Me
+<!-- CONNECT -->
+## 🌐 `SYS://NETWORK_LINKS`
 
 <p align="left">
-  <a href="/cdn-cgi/l/email-protection#e5918a848b968d9088848b96848d90a58288848c89cb868a88">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:toanshumansahu@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/anshuman-sahu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/anshuman-sahu-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
-📞 **+91 78549 39308** &nbsp;|&nbsp; 📧 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2d59424c435e4558404c435e4c45586d4a404c4441034e4240">[email&#160;protected]</a>**
+`📞 +91 78549 39308` &nbsp;|&nbsp; `📧 toanshumansahu@gmail.com`
 
 ---
 
-## 💼 Professional Experience
+<!-- EXPERIENCE -->
+## 💼 `SYS://MISSION_LOG`
 
-### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd.
-**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025**
+### 🏢 `[MISSION_01]` Frontend Developer Intern — Gwing Software Pvt. Ltd.
+```
+📍 LOCATION  : Bangalore, India
+📅 DURATION  : May 2025 – June 2025
+🎯 STATUS    : COMPLETED ✅
+```
 
-| 🎯 Achievement | 📊 Impact |
+| `[TARGET]` | `[RESULT]` |
 |---|---|
-| Website Performance Optimization | **40% faster load time** |
-| AI-based Recommendations & Dynamic Search | **30% increase in user engagement** |
-| Interactive UI & Client-side Validation | **25% boost in conversion rates** |
-| Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
+| ⚡ Performance Optimization | **40% faster load time** |
+| 🤖 AI Recommendations + Dynamic Search | **30% user engagement increase** |
+| 🖱️ Interactive UI + Client-side Validation | **25% conversion rate boost** |
+| 🧩 Modular Code + Efficient Rendering | **20% cart abandonment reduction** |
 
-- ✅ Built a **responsive e-commerce web app** with HTML, CSS & JavaScript ensuring full cross-browser compatibility
-- ✅ Implemented **AI-based product recommendations** and dynamic search with category filtering
-- ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
-- ✅ Optimized performance through **modular code structure** and efficient rendering techniques
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
-> *Aug 2025 – Sep 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Minimax Algorithm · Vercel*
-
-- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection
-- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic
-- 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making
+- ✅ Built **responsive e-commerce web app** → HTML · CSS · JavaScript · cross-browser compatible
+- ✅ Deployed **AI-based recommendations** + dynamic search with category filtering
+- ✅ Engineered **interactive UI components** via DOM manipulation & real-time cart updates
+- ✅ Applied **modular architecture** for maximum performance and maintainability
 
 ---
 
-### 🧠 AI Quizmaster — Real-Time Quiz Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
-> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Vercel*
+<!-- PROJECTS -->
+## 🚀 `SYS://PROJECT_DATABASE`
 
-- 📊 Built a **quiz engine** with instant scoring, timer-based assessments & dynamic DOM manipulation
-- 👥 Supported **500+ users** with accurate real-time result computation
-- 📈 Performance dashboard with detailed analytics — improved engagement by **30%**
-- ✅ Fully responsive UI with client-side validation and seamless score tracking
+### `[PROJECT_01]` 🤖 AI-based Tic-Tac-Toe Game
+```
+📅 Aug 2025 – Sep 2025
+🛠️ HTML · CSS · JavaScript · Minimax Algorithm · GitHub · Vercel
+```
+- 🧠 AI engine powered by **Minimax Algorithm** — makes optimal, unbeatable decisions
+- ⚡ Real-time **game state management**, win/draw detection & dynamic UI updates
+- 🎮 Seamless, engaging gameplay with intelligent AI strategy
 
 ---
 
-### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
-> *B.Tech Final Year Project — NIST University*
+### `[PROJECT_02]` 🧠 AI Quizmaster — Real-Time Quiz Platform
+```
+📅 Nov 2025 – Dec 2025
+🛠️ HTML · CSS · JavaScript · GitHub · Vercel
+```
+- 📊 **Quiz engine** with instant scoring, timer-based assessments & DOM manipulation
+- 👥 Handled **500+ concurrent users** with accurate real-time result computation
+- 📈 Analytics dashboard → improved engagement by **30%**
+- ✅ Responsive UI · client-side validation · performance tracking
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+---
 
-- 🌐 Web platform for **alumni communication, networking & event management**
+### `[PROJECT_03]` 🎓 Centralized Alumni Engagement & Networking Portal
+```
+📅 Final Year Project — NIST University
+🛠️ React.js · JavaScript · Tailwind CSS
+```
+- 🌐 Full-stack platform → **alumni communication, networking & event management**
 - 🏫 Serving **1,000+ users** at NIST University
-- 🔗 Features: Alumni directory, event scheduling, networking hub & communication tools
+- 🔗 Features: Alumni directory · event scheduling · networking hub · communication tools
 
 ---
 
-## 💻 Tech Stack
+<!-- TECH STACK -->
+## 💻 `SYS://TECH_ARSENAL`
 
-### 🎨 Frontend
+### `[MODULE_01]` 🎨 Frontend Core
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -140,13 +168,13 @@ const anshuman = {
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🔧 Languages
+### `[MODULE_02]` 🔧 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🛠️ Tools & Platforms
+### `[MODULE_03]` 🛠️ Dev Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -158,40 +186,50 @@ const anshuman = {
 
 ---
 
-## 🏆 Certifications & Achievements
+<!-- CERTIFICATIONS -->
+## 🏆 `SYS://ACHIEVEMENTS_UNLOCKED`
 
-| 🏅 | Title | Issuer | Year |
+| `[BADGE]` | `[TITLE]` | `[ISSUER]` | `[YEAR]` |
 |---|---|---|---|
-| 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
+| 📄 | **IEEE Scopus Publication** — *Emotion Centric AI Intervention for Experiential Learning* | IEEE | Sep 2025 |
 | 🤖 | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
 | 💼 | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
 | ✈️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| 🏅 | **National-Level Athletic Achievement (3rd Position)** | Junior National Basketball Championship | 2022 |
+| 🏅 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
 
 ---
 
-## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+## 📊 `SYS://PERFORMANCE_METRICS`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuman-sahu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuman-sahu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff9c&icon_color=00bfff" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman-sahu-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9c" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 `SYS://TROPHY_CABINET`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman-sahu-dev&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 💡 Dev Quote of the Day
+## 📈 `SYS://ACTIVITY_LOG`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman-sahu-dev&theme=tokyo-night&hide_border=true&area=true&color=00ff9c&line=00bfff&point=ffffff" />
+</p>
+
+---
+
+## 💡 `SYS://WISDOM_MODULE`
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -199,19 +237,32 @@ const anshuman = {
 
 ---
 
-## 🎓 Education
+## 🎓 `SYS://EDUCATION_LOG`
 
-```
-🏫  NIST University, Brahmapur, Odisha
-🎓  B.Tech — Computer Science & Engineering
-📅  2022 – 2026
-📊  CGPA: 6.89 / 10.0
-🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users)
+```bash
+$ cat education.log
+
+🏫  INSTITUTION  : NIST University, Brahmapur, Odisha
+🎓  DEGREE       : B.Tech — Computer Science & Engineering
+📅  DURATION     : 2022 – 2026
+📊  CGPA         : 6.89 / 10.0
+🚀  FINAL_PROJECT: Centralized Alumni Engagement & Networking Portal (1,000+ users)
+
+>> STATUS: FINAL YEAR — GRADUATION IMMINENT ✅
 ```
 
 ---
 
 <div align="center">
 
-### *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=3000&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+%22Results-driven+developer.+Published+researcher.+National+athlete.%22;%3E+%22Building+the+web%2C+one+component+at+a+time.%22;%3E+SYSTEM+SHUTDOWN...+SEE+YOU+ON+THE+OTHER+SIDE+%F0%9F%9A%80" alt="Footer Typing" />
+
 <br/>
+
+⭐ **If you find my work useful — drop a star. It fuels the mission!** ⭐
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
