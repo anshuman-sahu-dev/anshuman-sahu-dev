@@ -215,4 +215,3 @@ const anshuman = {
 
 ### *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
 <br/>
- *
