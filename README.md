@@ -221,8 +221,6 @@ const anshuman = {
 
 <div align="center">
 
-### 💬 *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
-
+### *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
 <br/>
-
-⭐ *
+ *
