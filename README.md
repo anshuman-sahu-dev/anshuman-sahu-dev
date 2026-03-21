@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anshuman+Sahu;Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher;National+Level+Athlete" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anshuman+Sahu;Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher;National+Level+Athlete" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Turning complex UI/UX requirements into production-ready, high-performance web experiences ✨</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=5000&color=00BFFF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Turning+complex+UI%2FUX+into+production-ready%2C+high-performance+web+experiences+%E2%9C%A8" alt="Subtitle" />
+</h3>
 
 <br/>
 
@@ -183,6 +185,14 @@ const anshuman = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -213,10 +223,14 @@ const anshuman = {
 
 <div align="center">
 
-### **"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."**
+### 💬 *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
 
 <br/>
 
 ⭐ **If you find my work useful, drop a star — it means the world!** ⭐
+
 <br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
