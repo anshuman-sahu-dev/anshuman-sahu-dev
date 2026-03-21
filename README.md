@@ -166,7 +166,7 @@ const anshuman = {
 | 🤖 | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
 | 💼 | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
 | ✈️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| 🏅 | **National-Level Athletic Achievement** | — | — |
+| 🏅 | **National-Level Athletic Achievement (3rd Position)** | Junior National Baskrtball Championship | 2022 |
 
 ---
 
