@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anshuman+Sahu;Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher;National+Level+Athlete" alt="Typing SVG" />
 </h1>
 
-
 <h3 align="center">✨ Turning complex UI/UX requirements into production-ready, high-performance web experiences ✨</h3>
 
 <br/>
@@ -58,7 +57,7 @@ const anshuman = {
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:toanshumansahu@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#e5918a848b968d9088848b96848d90a58288848c89cb868a88">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/anshuman-sahu" target="_blank">
@@ -67,12 +66,12 @@ const anshuman = {
   <a href="https://github.com/anshuman-sahu-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://anshumansahu-portfolio-2025.vercel.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
-📞 **+91 78549 39308** &nbsp;|&nbsp; 📧 **toanshumansahu@gmail.com**
+📞 **+91 78549 39308** &nbsp;|&nbsp; 📧 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2d59424c435e4558404c435e4c45586d4a404c4441034e4240">[email&#160;protected]</a>**
 
 ---
 
@@ -167,7 +166,7 @@ const anshuman = {
 | 🤖 | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
 | 💼 | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
 | ✈️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| 🏅 | **National-Level Athletic Achievement (3rd position)** | Junior National Basketball championship | 2022 |
+| 🏅 | **National-Level Athletic Achievement** | — | — |
 
 ---
 
@@ -187,7 +186,7 @@ const anshuman = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -226,10 +225,4 @@ const anshuman = {
 
 <br/>
 
-⭐ **If you find my work useful, drop a star — it means the world!** ⭐
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+⭐ *
