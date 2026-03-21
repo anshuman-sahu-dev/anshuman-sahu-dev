@@ -185,14 +185,6 @@ const anshuman = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -223,14 +215,11 @@ const anshuman = {
 
 <div align="center">
 
-### 💬 *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
+### *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
 
 <br/>
 
 ⭐ **If you find my work useful, drop a star — it means the world!** ⭐
 
 <br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
