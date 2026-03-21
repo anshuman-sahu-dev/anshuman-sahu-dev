@@ -221,14 +221,10 @@ const anshuman = {
 
 <div align="center">
 
-### 💬 *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
+### **"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."**
 
 <br/>
 
 ⭐ **If you find my work useful, drop a star — it means the world!** ⭐
-
 <br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
