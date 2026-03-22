@@ -21,7 +21,7 @@
 Building responsive and performant web applications as a Frontend Developer, crafting pixel-perfect UI components using React.js, Bootstrap, Tailwind CSS, and modern JavaScript (ES6+) focused on delivering seamless user experiences across all devices.<br>Open-source Frontend projects — UI component libraries, design systems, portfolio templates, and web apps built with React, Next.js, or Vue.js. Always excited to team up with designers and backend devs to ship great products.<br>Advanced React performance optimization, Web Accessibility (WCAG standards), Three.js / WebGL animations, and diving deeper into Backend integration to grow into a Full-Stack Developer.<br>Next.js for server-side rendering & full-stack capabilities<br>TypeScript for scalable, type-safe frontend code<br>Framer Motion for advanced UI animations<br>Web Performance & Core Web Vitals optimization<br>React.js, HTML5 & CSS3, JavaScript, Responsive Web Design, Bootstrap, Tailwind CSS, REST API integration, Git workflows, and UI/UX best practices.<br>I treat every pixel like it matters because it does! I can spend an entire evening perfecting a hover animation or a colour palette, and still call it a productive day. 
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anshuman_sahu_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-sahu-371a6535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) 
 
 # 💻 Tech Stack:
