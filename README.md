@@ -32,8 +32,6 @@ Building responsive and performant web applications as a Frontend Developer, cra
 ![](https://nirzak-streak-stats.vercel.app/?user=anshuman-sahu-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## 💼 Professional Experience
 
 ### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd.
@@ -51,6 +49,6 @@ Building responsive and performant web applications as a Frontend Developer, cra
 - ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
 - ✅ Optimized performance through **modular code structure** and efficient rendering techniques
 
----
+
 
 
