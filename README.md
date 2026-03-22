@@ -44,10 +44,42 @@ Building responsive and performant web applications as a Frontend Developer, cra
 | Interactive UI & Client-side Validation | **25% boost in conversion rates** |
 | Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
 
-- ✅ Built a **responsive e-commerce web app** with HTML, CSS & JavaScript ensuring full cross-browser compatibility
-- ✅ Implemented **AI-based product recommendations** and dynamic search with category filtering
-- ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
-- ✅ Optimized performance through **modular code structure** and efficient rendering techniques
+ ✅ Built a **responsive e-commerce web app** with HTML, CSS & JavaScript ensuring full cross-browser compatibility
+ ✅ Implemented **AI-based product recommendations** and dynamic search with category filtering
+ ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
+ ✅ Optimized performance through **modular code structure** and efficient rendering techniques
+
+ ## 🚀 Featured Projects
+
+### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
+> *Aug 2025 – Sep 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Minimax Algorithm · Vercel*
+
+ 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection
+ ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic
+ 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making
+
+
+### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
+> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; HTML · CSS · Bootstrap · JavaScript · Vercel*
+
+ 📊 Built a **quiz engine** with instant scoring, timer-based assessments & dynamic DOM manipulation
+ 👥 Supported **500+ users** with accurate real-time result computation
+ 📈 Performance dashboard with detailed analytics — improved engagement by **30%**
+ ✅ Fully responsive UI with client-side validation and seamless score tracking
+
+
+### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
+> *B.Tech Final Year Project — NIST University*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+ 🌐 Web platform for **alumni communication, networking & event management**
+ 🏫 Serving **1,000+ users** at NIST University
+ 🔗 Features: Alumni directory, event scheduling, networking hub & communication tools
+
+
 
 
 
