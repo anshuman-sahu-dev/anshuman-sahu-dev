@@ -17,14 +17,22 @@
 
 ---
 
-## 👋 Hey, I'm Anshuman!
+## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Tailwind;Building+pixel-perfect+UIs+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%9F)](https://git.io/typing-svg)
+🎯 I'm a **Frontend Developer** from **Brahmapur, Odisha 🇮🇳**
+passionate about turning ideas into **beautiful, responsive web experiences.**
 
-🔭 Working on **Frontend Projects & EdTech Platforms**
-🌱 Learning **Next.js · TypeScript · Framer Motion**
-💬 Ask me about **React · CSS · REST APIs · Git**
-⚡ Fun fact: **I debug in dark mode at 2AM and enjoy it 😅**
+🚀 Currently crafting UIs with **React.js**, **Tailwind CSS** & **JavaScript**
+while exploring the depths of **Next.js** and **TypeScript.**
+
+🤝 Always excited to collaborate on **open-source projects**,
+**UI libraries**, and products that solve **real-world problems.**
+
+📄 Recently published an **IEEE Scopus Research Paper** on
+*Emotion-Centric AI for Experiential Learning.*
+
+⚡ **Fun fact →** I treat every pixel like it matters — because it does! 🎨
+
 ## 🎓 Education
 
 🏫  NIST University, Brahmapur, Odisha <br>
