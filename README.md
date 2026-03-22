@@ -49,8 +49,8 @@ Building responsive and performant web applications as a Frontend Developer, cra
 ### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
 > *Aug 2025 – Sep 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Minimax Algorithm · Vercel*
 
- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection
- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic
+ 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection <br>
+ ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic <br>
  🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making
 
 
