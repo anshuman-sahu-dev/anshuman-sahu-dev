@@ -44,11 +44,6 @@ Building responsive and performant web applications as a Frontend Developer, cra
 | Interactive UI & Client-side Validation | **25% boost in conversion rates** |
 | Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
 
-🌐 Developed a responsive front-end e-commerce web application using HTML, CSS, and JavaScript, ensuring cross-browser compatibility and seamless user experience across devices. <br>
-🤖 Implemented AI-based recommendations and dynamic search with category filtering, increasing user engagement and session retention by 30%. <br>
-🛒 Built interactive UI components using DOM manipulation, real-time cart updates, and client-side validation, boosting conversion rates by 25%. <br>
-⚡ Optimized website performance through modular code structure and efficient rendering techniques, achieving 40% faster load time and reducing cart abandonment by 20%. <br>
-
  ## 🚀 Featured Projects
 
 ### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
@@ -62,10 +57,9 @@ Building responsive and performant web applications as a Frontend Developer, cra
 ### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://finitech-ed-tech.vercel.app/)
 > *Nov 2025 – Dec 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) *
 
- 📊 Built a **quiz engine** with instant scoring, timer-based assessments & dynamic DOM manipulation
- 👥 Supported **500+ users** with accurate real-time result computation
- 📈 Performance dashboard with detailed analytics — improved engagement by **30%**
- ✅ Fully responsive UI with client-side validation and seamless score tracking
+ 🚀 Built a fully responsive EdTech platform for Finitech Institute serving 500+ users with real-time result computation & instant scoring
+ 📊 Engineered a quiz engine with timer-based assessments, dynamic DOM manipulation & a performance dashboard that boosted engagement by 30%
+ ✅ Implemented client-side validation, seamless score tracking & optimized UI/UX across all devices for a production-grade experience
 
 
 ### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
