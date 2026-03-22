@@ -27,7 +27,7 @@
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ 
 
 const anshuman = {
-  role        : "Frontend Developer 🚀",
+  role        : "Frontend Developer",
   location    : "Brahmapur, Odisha 🇮🇳",
   focus       : "Building pixel-perfect, performant web experiences",
   languages   : ["HTML", "CSS", "JavaScript", "TypeScript"],
@@ -35,7 +35,7 @@ const anshuman = {
   currentlyLearning : ["Next.js SSR", "Framer Motion", "WebGL"],
   collaborateOn     : ["Open Source", "UI Libraries", "Design Systems"],
   askMeAbout        : ["React", "Responsive Design", "REST APIs", "Git"],
-  funFact     : "I can spend hours perfecting a hover animation 🎨",
+  funFact     : "I can spend hours perfecting a hover animation",
 };
 ```
 
