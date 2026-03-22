@@ -34,7 +34,7 @@ Building responsive and performant web applications as a Frontend Developer, cra
 
 ## 💼 Professional Experience
 
-### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd.
+### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd. &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://swad-e-dil.vercel.app/)
 **📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025**
 
 | 🎯 Achievement | 📊 Impact |
@@ -43,11 +43,6 @@ Building responsive and performant web applications as a Frontend Developer, cra
 | AI-based Recommendations & Dynamic Search | **30% increase in user engagement** |
 | Interactive UI & Client-side Validation | **25% boost in conversion rates** |
 | Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
-
- ✅ Built a **responsive e-commerce web app** with HTML, CSS & JavaScript ensuring full cross-browser compatibility
- ✅ Implemented **AI-based product recommendations** and dynamic search with category filtering
- ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
- ✅ Optimized performance through **modular code structure** and efficient rendering techniques
 
  ## 🚀 Featured Projects
 
