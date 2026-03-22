@@ -19,13 +19,15 @@
 
 ## 👨‍🎓 About Me
 ```bash
+<pre>
+<span style="color: #00FF00">
 ███████╗██████╗  ██████╗ ███╗   ██╗████████╗███████╗███╗   ██╗██████╗ 
 ██╔════╝██╔══██╗██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝████╗  ██║██╔══██╗
 █████╗  ██████╔╝██║   ██║██╔██╗ ██║   ██║   █████╗  ██╔██╗ ██║██║  ██║
 ██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██║╚██╗██║██║  ██║
 ██║     ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║ ╚████║██████╔╝
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ 
-
+</span>
 const anshuman = {
   role        : "Frontend Developer",
   location    : "Brahmapur, Odisha 🇮🇳",
@@ -37,6 +39,7 @@ const anshuman = {
   askMeAbout        : ["React", "Responsive Design", "REST APIs", "Git"],
   funFact     : "I can spend hours perfecting a hover animation",
 };
+</pre>
 ```
 
 
