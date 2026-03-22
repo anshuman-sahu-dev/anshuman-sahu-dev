@@ -44,6 +44,11 @@ Building responsive and performant web applications as a Frontend Developer, cra
 | Interactive UI & Client-side Validation | **25% boost in conversion rates** |
 | Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
 
+🌐 Developed a responsive front-end e-commerce web application using HTML, CSS, and JavaScript, ensuring cross-browser compatibility and seamless user experience across devices. <br>
+🤖 Implemented AI-based recommendations and dynamic search with category filtering, increasing user engagement and session retention by 30%. <br>
+🛒 Built interactive UI components using DOM manipulation, real-time cart updates, and client-side validation, boosting conversion rates by 25%. <br>
+⚡ Optimized website performance through modular code structure and efficient rendering techniques, achieving 40% faster load time and reducing cart abandonment by 20%. <br>
+
  ## 🚀 Featured Projects
 
 ### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
