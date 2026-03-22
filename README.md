@@ -98,7 +98,7 @@ Building responsive and performant web applications as a Frontend Developer, cra
 
 <div align="center">
 
-### *Results-driven developer. Published researcher. Building the web, one component at a time. National athlete.*
+### *"Results-driven developer. Published researcher. Building the web, one component at a time. National athlete."*
 <br/>
 ⭐ If you find my work useful, drop a star it means the world! ⭐
 <br/>
