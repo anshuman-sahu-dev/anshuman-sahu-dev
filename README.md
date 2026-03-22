@@ -47,7 +47,7 @@ Building responsive and performant web applications as a Frontend Developer, cra
  ## 🚀 Featured Projects
 
 ### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
-> *Jan 2026 – Feb 2026 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)*
+> *Jan 2026 – Feb 2026 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) MINMAX Algorithm*
 
  🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection. <br>
  ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic. <br>
