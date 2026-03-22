@@ -73,11 +73,14 @@ Building responsive and performant web applications as a Frontend Developer, cra
 
 | 🏅 | Title | Issuer | Year |
 |---|---|---|---|
-| <i class="fa-solid fa-award"></i> | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
-| <i class="fa-solid fa-award"></i> | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
-| <i class="fa-solid fa-award"></i> | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
-| <i class="fa-solid fa-award"></i> | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| <i class="fa-solid fa-trophy"></i> | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
+| 🎖️ | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
+| 🎖️ | **AI Skills Passport** |  EY &nbsp;&&nbsp; Microsoft | 2026 |
+| 🎖️ | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
+| 🎖️ | **Software Engineering Job Simulation** | JPMorgan Chase Forage | 2026 |
+| 🎖️ | **Software Engineering Job Simulation** | Electronic Art Forage | 2026 |
+| 🎖️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
+| 🎖️ | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
+| 🎖️ | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
 
 
 
