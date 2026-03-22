@@ -47,19 +47,19 @@ Building responsive and performant web applications as a Frontend Developer, cra
  ## 🚀 Featured Projects
 
 ### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
-> *Aug 2025 – Sep 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Minimax Algorithm · Vercel*
+> *Aug 2025 – Sep 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)*
 
- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection <br>
- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic <br>
- 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making
+ 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection. <br>
+ ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic. <br>
+ 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making.
 
 
 ### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://finitech-ed-tech.vercel.app/)
-> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) *
+> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)*
 
- 🚀 Built a fully responsive EdTech platform for Finitech Institute serving 500+ users with real-time result computation & instant scoring
- 📊 Engineered a quiz engine with timer-based assessments, dynamic DOM manipulation & a performance dashboard that boosted engagement by 30%
- ✅ Implemented client-side validation, seamless score tracking & optimized UI/UX across all devices for a production-grade experience
+ 🚀 Built a fully responsive EdTech platform for Finitech Institute serving 500+ users with real-time result computation & instant scoring. <br>
+ 📊 Engineered a quiz engine with timer-based assessments, dynamic DOM manipulation & a performance dashboard that boosted engagement by 30%. <br>
+ ✅ Implemented client-side validation, seamless score tracking & optimized UI/UX across all devices for a production-grade experience. <br>
 
 
 ### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
