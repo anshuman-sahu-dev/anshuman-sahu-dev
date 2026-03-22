@@ -17,21 +17,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🎓 About Me
 
-🎯 I'm a **Frontend Developer** from **Brahmapur, Odisha 🇮🇳**
-passionate about turning ideas into **beautiful, responsive web experiences.**
+███████╗██████╗  ██████╗ ███╗   ██╗████████╗███████╗███╗   ██╗██████╗ 
+██╔════╝██╔══██╗██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝████╗  ██║██╔══██╗
+█████╗  ██████╔╝██║   ██║██╔██╗ ██║   ██║   █████╗  ██╔██╗ ██║██║  ██║
+██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██║╚██╗██║██║  ██║
+██║     ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║ ╚████║██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ 
 
-🚀 Currently crafting UIs with **React.js**, **Tailwind CSS** & **JavaScript**
-while exploring the depths of **Next.js** and **TypeScript.**
+> Initializing Developer Profile...
+> Name     : Anshuman Sahu
+> Role     : Frontend Developer 🚀
+> Stack    : React · JS · Tailwind · Bootstrap
+> Status   : Building cool stuff... ⏳
+> Location : Brahmapur, Odisha 🇮🇳
+> Profile  : [LOADED SUCCESSFULLY ✅]
 
-🤝 Always excited to collaborate on **open-source projects**,
-**UI libraries**, and products that solve **real-world problems.**
-
-📄 Recently published an **IEEE Scopus Research Paper** on
-*Emotion-Centric AI for Experiential Learning.*
-
-⚡ **Fun fact →** I treat every pixel like it matters — because it does! 🎨
 
 ## 🎓 Education
 
