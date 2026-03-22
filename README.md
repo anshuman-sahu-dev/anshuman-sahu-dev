@@ -22,11 +22,11 @@ Building responsive and performant web applications as a Frontend Developer, cra
 
 ## 🎓 Education
 
-🏫  NIST University, Brahmapur, Odisha
-🎓  B.Tech — Computer Science & Engineering
-📅  2022 – 2026
-📊  CGPA: 6.89 / 10.0
-🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users)
+🏫  NIST University, Brahmapur, Odisha <br>
+🎓  B.Tech — Computer Science & Engineering <br>
+📅  2022 – 2026 <br>
+📊  CGPA: 6.89 / 10.0 <br>
+🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users) <br>
 
 
 ## 🌐 Connect With Me:
