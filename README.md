@@ -17,8 +17,8 @@
 
 ---
 
-## 🎓 About Me
-
+## ⚡ About Me
+```bash
 ███████╗██████╗  ██████╗ ███╗   ██╗████████╗███████╗███╗   ██╗██████╗ 
 ██╔════╝██╔══██╗██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝████╗  ██║██╔══██╗
 █████╗  ██████╔╝██║   ██║██╔██╗ ██║   ██║   █████╗  ██╔██╗ ██║██║  ██║
@@ -26,13 +26,18 @@
 ██║     ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║ ╚████║██████╔╝
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ 
 
-> Initializing Developer Profile...
-> Name     : Anshuman Sahu
-> Role     : Frontend Developer 🚀
-> Stack    : React · JS · Tailwind · Bootstrap
-> Status   : Building cool stuff... ⏳
-> Location : Brahmapur, Odisha 🇮🇳
-> Profile  : [LOADED SUCCESSFULLY ✅]
+const anshuman = {
+  role        : "Frontend Developer 🚀",
+  location    : "Brahmapur, Odisha 🇮🇳",
+  focus       : "Building pixel-perfect, performant web experiences",
+  languages   : ["HTML", "CSS", "JavaScript", "TypeScript"],
+  frameworks  : ["React.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+  currentlyLearning : ["Next.js SSR", "Framer Motion", "WebGL"],
+  collaborateOn     : ["Open Source", "UI Libraries", "Design Systems"],
+  askMeAbout        : ["React", "Responsive Design", "REST APIs", "Git"],
+  funFact     : "I can spend hours perfecting a hover animation 🎨",
+};
+```
 
 
 ## 🎓 Education
