@@ -63,12 +63,11 @@ Building responsive and performant web applications as a Frontend Developer, cra
 
 
 ### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
-> *B.Tech Final Year Project — NIST University*  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> *B.Tech Final Year Project — NIST University 🟢 In Progress...*  
 
-
- 🌐 Web platform for **alumni communication, networking & event management**
- 🏫 Serving **1,000+ users** at NIST University
- 🔗 Features: Alumni directory, event scheduling, networking hub & communication tools
+ 🌐 Web platform for **alumni communication, networking & event management**.<br>
+ 🏫 Serving **1,000+ users** at **NIST University**.<br>
+ 🔗 Features: Alumni directory, Event Scheduling, Networking hub & Communication tools.
 
 
 
