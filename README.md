@@ -17,206 +17,30 @@
 
 ---
 
-## 🙋‍♂️ About Me
+# 💫 About Me:
+Building responsive and performant web applications as a Frontend Developer, crafting pixel-perfect UI components using React.js, Bootstrap, Tailwind CSS, and modern JavaScript (ES6+) focused on delivering seamless user experiences across all devices.<br>Open-source Frontend projects — UI component libraries, design systems, portfolio templates, and web apps built with React, Next.js, or Vue.js. Always excited to team up with designers and backend devs to ship great products.<br>Advanced React performance optimization, Web Accessibility (WCAG standards), Three.js / WebGL animations, and diving deeper into Backend integration to grow into a Full-Stack Developer.<br>Next.js for server-side rendering & full-stack capabilities<br>TypeScript for scalable, type-safe frontend code<br>Framer Motion for advanced UI animations<br>Web Performance & Core Web Vitals optimization<br>React.js, HTML5 & CSS3, JavaScript, Responsive Web Design, Bootstrap, Tailwind CSS, REST API integration, Git workflows, and UI/UX best practices.<br>I treat every pixel like it matters because it does! I can spend an entire evening perfecting a hover animation or a colour palette, and still call it a productive day. 
 
-```javascript
-const anshuman = {
-  name        : "Anshuman Sahu",
-  location    : "Brahmapur, Odisha, India 🇮🇳",
-  education   : "B.Tech CSE @ NIST University (2022–2026) | CGPA: 6.89",
-  role        : "Frontend Developer",
-  experience  : "Frontend Developer Intern @ Gwing Software Pvt. Ltd., Bangalore",
-  research    : "IEEE Scopus Published Researcher 📄",
-  speciality  : [
-                  "Responsive Web Applications",
-                  "React.js Component Libraries",
-                  "AI-powered UI Features",
-                  "Performance Optimization"
-                ],
-  achievements: {
-    performance : "40% faster load times",
-    engagement  : "30% increase in user engagement",
-    conversion  : "25% boost in conversion rates",
-    abandonment : "20% reduction in cart abandonment"
-  },
-  currentProject : "Centralized Alumni Engagement & Networking Portal",
-  funFact        : "National-level athlete 🏅 — discipline on the field, clean code at the desk!"
-};
-```
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anshuman_sahu_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-sahu-371a6535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) 
 
-- 🔭 Currently building a **Centralized Alumni Engagement & Networking Portal** serving **1,000+ users**
-- 💼 Ex **Frontend Developer Intern @ Gwing Software Pvt. Ltd., Bangalore**
-- 📄 **IEEE Scopus Published** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education*
-- 🌱 Currently advancing in **TypeScript · Next.js · System Design**
-- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, DOM Manipulation, AI-integrated UIs**
-- 🏅 **National-level athlete** — discipline, leadership & teamwork beyond the screen
-- ⚡ Fun fact: **I optimize code the same way I train — no shortcuts, just results!**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anshuman-sahu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anshuman-sahu-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anshuman-sahu-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anshuman-sahu-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anshuman-sahu-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:toanshumansahu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/anshuman-sahu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anshuman-sahu-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-📞 **+91 78549 39308** &nbsp;|&nbsp; 📧 **toanshumansahu@gmail.com**
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd.
-**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025**
-
-| 🎯 Achievement | 📊 Impact |
-|---|---|
-| Website Performance Optimization | **40% faster load time** |
-| AI-based Recommendations & Dynamic Search | **30% increase in user engagement** |
-| Interactive UI & Client-side Validation | **25% boost in conversion rates** |
-| Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
-
-- ✅ Built a **responsive e-commerce web app** with HTML, CSS & JavaScript ensuring full cross-browser compatibility
-- ✅ Implemented **AI-based product recommendations** and dynamic search with category filtering
-- ✅ Built **interactive UI components** using DOM manipulation and real-time cart updates
-- ✅ Optimized performance through **modular code structure** and efficient rendering techniques
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
-> *Aug 2025 – Sep 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Minimax Algorithm · Vercel*
-
-- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection
-- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic
-- 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making
-
----
-
-### 🧠 AI Quizmaster — Real-Time Quiz Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://github.com/anshuman-sahu-dev)
-> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; HTML · CSS · JavaScript · Vercel*
-
-- 📊 Built a **quiz engine** with instant scoring, timer-based assessments & dynamic DOM manipulation
-- 👥 Supported **500+ users** with accurate real-time result computation
-- 📈 Performance dashboard with detailed analytics — improved engagement by **30%**
-- ✅ Fully responsive UI with client-side validation and seamless score tracking
-
----
-
-### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
-> *B.Tech Final Year Project — NIST University*
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- 🌐 Web platform for **alumni communication, networking & event management**
-- 🏫 Serving **1,000+ users** at NIST University
-- 🔗 Features: Alumni directory, event scheduling, networking hub & communication tools
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🔧 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
----
-
-## 🏆 Certifications & Achievements
-
-| 🏅 | Title | Issuer | Year |
-|---|---|---|---|
-| 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
-| 🤖 | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
-| 💼 | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
-| ✈️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| 🏅 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuman-sahu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman-sahu-dev&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman-sahu-dev&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 💡 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🎓 Education
-
-```
-🏫  NIST University, Brahmapur, Odisha
-🎓  B.Tech — Computer Science & Engineering
-📅  2022 – 2026
-📊  CGPA: 6.89 / 10.0
-🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users)
-```
-
----
-
-<div align="center">
-
-### *"Results-driven developer. Published researcher. National athlete. Building the web, one component at a time."*
-<br/>
-⭐ If you find my work useful, drop a star it means the world! ⭐
-<br/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
