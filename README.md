@@ -79,8 +79,8 @@ Building responsive and performant web applications as a Frontend Developer, cra
 | 🎖️ | **Software Engineering Job Simulation** | JPMorgan Chase Forage | 2026 |
 | 🎖️ | **Software Engineering Job Simulation** | Electronic Art Forage | 2026 |
 | 🎖️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
-| 🎖️ | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
-| 🎖️ | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
+| 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
+| 🏆 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
 
 
 
