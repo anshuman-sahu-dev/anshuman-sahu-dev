@@ -69,6 +69,15 @@ Building responsive and performant web applications as a Frontend Developer, cra
  🏫 Serving **1,000+ users** at **NIST University**.<br>
  🔗 Features: Alumni directory, Event Scheduling, Networking hub & Communication tools.
 
+## 🏆 Certifications & Achievements
+
+| 🏅 | Title | Issuer | Year |
+|---|---|---|---|
+| 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
+| 🤖 | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
+| 💼 | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
+| ✈️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
+| 🏅 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
 
 
 
