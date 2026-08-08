@@ -77,9 +77,8 @@ const anshuman = {
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
 
 <!-- IDE & AI TOOLS -->
-
 <tr>
-  <td width="20%" rowspan="1" align="center" valign="middle">
+  <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339D353" width="20" alt="" /><br/>
     <strong>IDE & AI Tools</strong>
   </td>
@@ -103,10 +102,13 @@ const anshuman = {
     <img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="31" alt="Cursor AI"/><br/>
     <sub><b>Cursor AI</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- LANGUAGES -->
 
+<!-- LANGUAGES -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2358A6FF" width="20" alt="" /><br/>
@@ -144,8 +146,8 @@ const anshuman = {
   </td>
 </tr>
 
-<!-- CORE CONCEPTS -->
 
+<!-- CORE CONCEPTS -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/brain.svg?color=%2339D353" width="20" alt="" /><br/>
@@ -161,10 +163,15 @@ const anshuman = {
     <img src="https://api.iconify.design/fa6-solid/code-branch.svg?color=%23F0F6FC" width="31" alt="DSA"/><br/>
     <sub><b>DSA</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- BACKEND -->
 
+<!-- BACKEND -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="20" alt="" /><br/>
@@ -195,10 +202,12 @@ const anshuman = {
     <img src="https://api.iconify.design/simple-icons/express.svg?color=%23F0F6FC" width="31" alt="Express.js"/><br/>
     <sub><b>Express.js</b></sub>
   </td>
+
+  <td></td>
 </tr>
 
-<!-- FRONTEND -->
 
+<!-- FRONTEND -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/display.svg?color=%2339D353" width="20" alt="" /><br/>
@@ -224,10 +233,13 @@ const anshuman = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="31" alt="Tailwind CSS"/><br/>
     <sub><b>Tailwind CSS</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- DATABASES -->
 
+<!-- DATABASES -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="20" alt="" /><br/>
@@ -248,10 +260,14 @@ const anshuman = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="31" alt="MongoDB"/><br/>
     <sub><b>MongoDB</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- CLOUD & DEVOPS -->
 
+<!-- CLOUD & DEVOPS -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2358A6FF" width="20" alt="" /><br/>
@@ -272,10 +288,14 @@ const anshuman = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="31" alt="Jenkins"/><br/>
     <sub><b>Jenkins</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- DEPLOYMENT -->
 
+<!-- DEPLOYMENT -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339D353" width="20" alt="" /><br/>
@@ -301,10 +321,13 @@ const anshuman = {
     <img src="https://api.iconify.design/simple-icons/netlify.svg?color=%2300C7B7" width="31" alt="Netlify"/><br/>
     <sub><b>Netlify</b></sub>
   </td>
+
+  <td></td>
+  <td></td>
 </tr>
 
-<!-- AI TOOLS -->
 
+<!-- AI TOOLS -->
 <tr>
   <td width="20%" align="center" valign="middle">
     <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="20" alt="" /><br/>
@@ -343,7 +366,6 @@ const anshuman = {
 </tr>
 
 </table>
-
 
 ## 💼 Professional Experience
 
