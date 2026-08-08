@@ -129,26 +129,45 @@ const anshuman = {
 | 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
 | 🏆 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
 
-## 📬 Contact
+## 📫 Let's Connect!
 
-For any queries, feedback, or collaboration:
+I'm always excited to collaborate on innovative projects and discuss technology!
 
-[![Email](https://img.shields.io/badge/Email-toanshumansahu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) <br>
-[![Phone](https://img.shields.io/badge/Phone-+91_78549_39308-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917854939308) <br>
-[![GitHub](https://img.shields.io/badge/GitHub-anshuman--sahu--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshuman-sahu-dev) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahu-371a6535b/) <br>
-[![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
-
-## 💡 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p>
+  <a href="mailto:ktirumalaachari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-toanshumansahu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+<p>
+  <a href="https://anshuman-sahu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anshuman-sahu-371a6535b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+**📍 Location:** Banglore, karnataka  
+**📱 Phone:** +91 7854939308
 
 <div align="center">
 
-### *"Results-driven developer. Published researcher. Building the web, one component at a time. National athlete."*
-<br/>
-⭐ If you find my work useful, drop a star it means the world! ⭐
-<br/>
+[![](https://visitcount.itsvg.in/api?id=ktirumalaachari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ktirumalaachari/ktirumalaachari/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ktirumalaachari/ktirumalaachari/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ktirumalaachari/ktirumalaachari/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star some repositories!
+
+**💙 Thanks for visiting my profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D3320,100:0D1117&height=105&section=footer" alt="Footer decoration" />
+
 </div>
