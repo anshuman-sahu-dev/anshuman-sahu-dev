@@ -1,8 +1,154 @@
-<!-- ROYAL COHESIVE HEADER BANNER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Anshuman+Sahu;Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;IEEE+Scopus+Published+Researcher;National+Level+Athlete" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=5000&color=00BFFF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Turning+complex+UI%2FUX+into+production-ready%2C+high-performance+web+experiences+%E2%9C%A8" alt="Subtitle" />
+</h3>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshuman-sahu-dev&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anshuman-sahu-dev?label=Followers&style=flat-square&color=00ff9c" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Brahmapur%2C%20Odisha%20🇮🇳-blue?style=flat-square" />
+</p>
+
+---
+
+## 👨‍🎓 About Me
+### 💻 Full Stack Developer
+
+```diff
++ ███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
++ ██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
++ █████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝
++ ██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗
++ ██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
++ ╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
++
++ ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
++ ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
++ ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
++ ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
++ ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
++ ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
+
+```javascript
+const anshuman = {
+  role: "Software Engineer",
+  location: "Brahmapur, Odisha 🇮🇳",
+  focus: "Building scalable, secure, and high-performance software solutions",
+  languages: ["Java", "JavaScript (ES6+)", "SQL", "HTML5", "CSS3", "TypeScript"],
+  backend: ["Spring Boot", "Spring MVC", "Spring Security", "Node.js", "Express.js"],
+  frontend: ["React.js", "Three.js", "Bootstrap 5", "Tailwind CSS"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  cloudDevOps: ["AWS", "Docker", "Jenkins"],
+  deployment: ["Git", "GitHub", "Vercel", "Netlify"],
+  tools: ["VS Code", "Cursor AI", "Postman", "Claude AI", "Google AI Studio"],
+  currentlyLearning: ["Microservices", "System Design", "AWS Services", "CI/CD"],
+  collaborateOn: ["Open Source", "Full Stack Applications", "Java Projects"],
+  askMeAbout: ["Java", "Spring Boot", "React", "REST APIs", "SQL", "Git"],
+  funFact: "I enjoy solving complex problems and turning ideas into production-ready applications.",
+};
+```
+
+
+## 🎓 Education
+
+🏫  NIST University, Brahmapur, Odisha <br>
+🎓  B.Tech — Computer Science & Engineering <br>
+📅  2022 – 2026 <br>
+📊  CGPA: 6.89 / 10.0 <br>
+🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users) <br>
+
+
+## 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anshuman_sahu_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-sahu-371a6535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuman-sahu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anshuman-sahu-dev&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💼 Professional Experience
+
+### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd. &nbsp; 
+**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025 &nbsp;|&nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://swad-e-dil.vercel.app/)**
+
+| 🎯 Achievement | 📊 Impact |
+|---|---|
+| Website Performance Optimization | **40% faster load time** |
+| AI-based Recommendations & Dynamic Search | **30% increase in user engagement** |
+| Interactive UI & Client-side Validation | **25% boost in conversion rates** |
+| Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
+
+ ## 🚀 Featured Projects
+
+### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
+> *Jan 2026 – Feb 2026 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) MINMAX Algorithm*
+
+ 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection. <br>
+ ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic. <br>
+ 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making.
+
+
+### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://finitech-ed-tech.vercel.app/)
+> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)*
+
+ 🚀 Built a fully responsive EdTech platform for Finitech Institute serving 500+ users with real-time result computation & instant scoring. <br>
+ 📊 Engineered a quiz engine with timer-based assessments, dynamic DOM manipulation & a performance dashboard that boosted engagement by 30%. <br>
+ ✅ Implemented client-side validation, seamless score tracking & optimized UI/UX across all devices for a production-grade experience. <br>
+
+
+### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
+> *B.Tech Final Year Project — NIST University 🟢 In Progress...*  
+
+ 🌐 Web platform for **alumni communication, networking & event management**.<br>
+ 🏫 Serving **1,000+ users** at **NIST University**.<br>
+ 🔗 Features: Alumni directory, Event Scheduling, Networking hub & Communication tools.
+
+## 🏆 Certifications & Achievements
+
+| 🏅 | Title | Issuer | Year |
+|---|---|---|---|
+| 🎖️ | **AI Fundamentals: Foundations for Understanding AI** | IBM | 2026 |
+| 🎖️ | **AI Skills Passport** |  EY &nbsp;&&nbsp; Microsoft | 2026 |
+| 🎖️ | **Technology Risk Virtual Job Simulation** | EY Forage | 2026 |
+| 🎖️ | **Software Engineering Job Simulation** | JPMorgan Chase Forage | 2026 |
+| 🎖️ | **Software Engineering Job Simulation** | Electronic Art Forage | 2026 |
+| 🎖️ | **Front-End Software Engineering Job Simulation** | Skyscanner Forage | 2026 |
+| 📄 | **IEEE Scopus Research Publication** — *Emotion Centric AI Intervention for Experiential Learning in Higher Education* | IEEE | Sep 2025 |
+| 🏆 | **National-Level Athletic Achievement** | Junior National Basketball Championship | 2022 |
+
+## 📬 Contact
+
+For any queries, feedback, or collaboration:
+
+[![Email](https://img.shields.io/badge/Email-toanshumansahu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) <br>
+[![Phone](https://img.shields.io/badge/Phone-+91_78549_39308-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917854939308) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-anshuman--sahu--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshuman-sahu-dev) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahu-371a6535b/) <br>
+[![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
+
+## 💡 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" src="./images/anshuman-github-banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" src="./images/anshuman-github-banner.svg?v=1">
-    <img src="./images/anshuman-github-banner.svg?v=1" alt="Anshuman Cover Banner" width="100%">
-  </picture>
+
+### *"Results-driven developer. Published researcher. Building the web, one component at a time. National athlete."*
+<br/>
+⭐ If you find my work useful, drop a star it means the world! ⭐
+<br/>
 </div>
