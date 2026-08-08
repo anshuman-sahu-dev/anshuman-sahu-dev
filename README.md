@@ -69,7 +69,281 @@ const anshuman = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anshuman_sahu_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-sahu-371a6535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">
+  <img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%2339D353" width="24" alt="" />
+  &nbsp;Technical Expertise
+</h2>
+
+<table width="100%" border="1" cellpadding="0" cellspacing="0">
+
+<!-- IDE & AI TOOLS -->
+
+<tr>
+  <td width="20%" rowspan="1" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>IDE & AI Tools</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="31" alt="VS Code"/><br/>
+    <sub><b>VS Code</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="31" alt="IntelliJ IDEA"/><br/>
+    <sub><b>IntelliJ IDEA</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%234285F4" width="31" alt="Google Antigravity"/><br/>
+    <sub><b>Google Antigravity</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="31" alt="Cursor AI"/><br/>
+    <sub><b>Cursor AI</b></sub>
+  </td>
+</tr>
+
+<!-- LANGUAGES -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2358A6FF" width="20" alt="" /><br/>
+    <strong>Languages</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="31" alt="Java"/><br/>
+    <sub><b>Java</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="31" alt="JavaScript"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="31" alt="TypeScript"/><br/>
+    <sub><b>TypeScript</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="31" alt="HTML5"/><br/>
+    <sub><b>HTML5</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="31" alt="CSS3"/><br/>
+    <sub><b>CSS3</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1" width="31" alt="SQL"/><br/>
+    <sub><b>SQL</b></sub>
+  </td>
+</tr>
+
+<!-- CORE CONCEPTS -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/brain.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>Core Concepts</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/cubes.svg?color=%2358A6FF" width="31" alt="OOP"/><br/>
+    <sub><b>OOP (Java)</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/code-branch.svg?color=%23F0F6FC" width="31" alt="DSA"/><br/>
+    <sub><b>DSA</b></sub>
+  </td>
+</tr>
+
+<!-- BACKEND -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="20" alt="" /><br/>
+    <strong>Backend</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="31" alt="Spring Boot"/><br/>
+    <sub><b>Spring Boot</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/spring.svg?color=%236DB33F" width="31" alt="Spring MVC"/><br/>
+    <sub><b>Spring MVC</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/springsecurity.svg?color=%236DB33F" width="31" alt="Spring Security"/><br/>
+    <sub><b>Spring Security</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="31" alt="Node.js"/><br/>
+    <sub><b>Node.js</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/express.svg?color=%23F0F6FC" width="31" alt="Express.js"/><br/>
+    <sub><b>Express.js</b></sub>
+  </td>
+</tr>
+
+<!-- FRONTEND -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/display.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>Frontend</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="31" alt="React.js"/><br/>
+    <sub><b>React.js</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="31" alt="Three.js"/><br/>
+    <sub><b>Three.js</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="31" alt="Bootstrap 5"/><br/>
+    <sub><b>Bootstrap 5</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="31" alt="Tailwind CSS"/><br/>
+    <sub><b>Tailwind CSS</b></sub>
+  </td>
+</tr>
+
+<!-- DATABASES -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>Databases</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="31" alt="MySQL"/><br/>
+    <sub><b>MySQL</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="31" alt="PostgreSQL"/><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="31" alt="MongoDB"/><br/>
+    <sub><b>MongoDB</b></sub>
+  </td>
+</tr>
+
+<!-- CLOUD & DEVOPS -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2358A6FF" width="20" alt="" /><br/>
+    <strong>Cloud & DevOps</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" alt="AWS"/><br/>
+    <sub><b>AWS</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="31" alt="Docker"/><br/>
+    <sub><b>Docker</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="31" alt="Jenkins"/><br/>
+    <sub><b>Jenkins</b></sub>
+  </td>
+</tr>
+
+<!-- DEPLOYMENT -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>Deployment</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="31" alt="Git"/><br/>
+    <sub><b>Git</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="31" alt="GitHub"/><br/>
+    <sub><b>GitHub</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="31" alt="Vercel"/><br/>
+    <sub><b>Vercel</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/netlify.svg?color=%2300C7B7" width="31" alt="Netlify"/><br/>
+    <sub><b>Netlify</b></sub>
+  </td>
+</tr>
+
+<!-- AI TOOLS -->
+
+<tr>
+  <td width="20%" align="center" valign="middle">
+    <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="20" alt="" /><br/>
+    <strong>AI Tools</strong>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="OpenAI"/><br/>
+    <sub><b>OpenAI</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" width="31" alt="Gemini"/><br/>
+    <sub><b>Gemini</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="31" alt="Claude"/><br/>
+    <sub><b>Claude</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23C9D1D9" width="31" alt="Ollama"/><br/>
+    <sub><b>Ollama</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="Codex"/><br/>
+    <sub><b>Codex</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="31" alt="OpenClaw"/><br/>
+    <sub><b>OpenClaw</b></sub>
+  </td>
+</tr>
+
+</table>
+
 
 ## 💼 Professional Experience
 
