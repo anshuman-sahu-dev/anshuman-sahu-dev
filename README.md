@@ -420,12 +420,16 @@ const anshuman = {
 
 
 
-### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
-> *B.Tech Final Year Project — NIST University 🟢 In Progress...*  
+### 🎓 Full-Stack Alumni Portal for Educational Institution   [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://alumni.nist.edu/)
 
- 🌐 Web platform for **alumni communication, networking & event management**.<br>
- 🏫 Serving **1,000+ users** at **NIST University**.<br>
- 🔗 Features: Alumni directory, Event Scheduling, Networking hub & Communication tools.
+> *B.Tech Final Year Project — NIST University*  |  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)*
+
+🌐 Developed a **full-stack alumni engagement platform** to connect alumni, students, and the institution through structured networking and collaboration. <br>
+🏆 Enabled the institution to **conduct workshops and hackathons** while providing opportunities for alumni-led mentorship and knowledge sharing. <br>
+🎓 Built features to support **certificate issuance, mentorship programs, and 1:1 guidance** between alumni and current students. <br>
+🤝 Facilitated **referrals and career connections**, allowing alumni to support current students with professional opportunities. <br>
+⚙️ Implemented **RESTful APIs, backend business logic, database integration, CRUD operations, and user management** using Laravel, PHP, and MySQL.
+
 
 ## 🏆 Certifications & Achievements
 
