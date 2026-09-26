@@ -61,9 +61,13 @@ const anshuman = {
 🏫  NIST University, Brahmapur, Odisha <br>
 🎓  B.Tech — Computer Science & Engineering <br>
 📅  2022 – 2026 <br>
-📊  CGPA: 6.89 / 10.0 <br>
+📊  CGPA: 7.04 / 10.0 <br>
 🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users) <br>
 
+🏫  khallikote higher secondary school, Brahmapur, Odisha <br>
+🎓  Higher Education — Science (PCMB) <br>
+📅  2020 – 2022 <br>
+📊  Percentage: 71 <br>
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anshuman_sahu_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-sahu-371a6535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toanshumansahu@gmail.com) 
