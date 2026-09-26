@@ -395,12 +395,16 @@ const anshuman = {
 
  ## 🚀 Featured Projects
 
-### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
-> *Jan 2026 – Feb 2026 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) MINMAX Algorithm*
+### 🤖 **AI-Powered Odisha Express Metro Navigation System**   [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://odisha-express-metro-website.vercel.app/)
 
- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection. <br>
- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic. <br>
- 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making.
+> *2026  |  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)*
+
+🧠 Developed an **AI-powered metro navigation system** with real-time object detection, API integration, responsive UI, and backend services. <br>
+⚡ Built a **responsive and user-friendly interface** using React, Vite, and TailwindCSS for seamless navigation across devices. <br>
+🔗 Integrated **REST APIs and Node.js backend services** to manage dynamic metro data and application functionality. <br>
+🗺️ Implemented **intelligent navigation features** to help users explore metro routes, stations, and related information efficiently. <br>
+🚀 Deployed the application on **Vercel**, ensuring fast and reliable access through a production-ready web environment.
+
 
 
 ### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://finitech-ed-tech.vercel.app/)
