@@ -407,14 +407,15 @@ const anshuman = {
 
 
 
-### 📋 **Project Management System**   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)]
+📋 **Project Management System**   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)]
 
-> *2026  |  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)*
+> *2026  |  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)*
 
 🔐 Engineered a **secure full-stack project management system** with authentication, authorization, and role-based access control. <br>
 ⚡ Developed **RESTful APIs** using Node.js and Express.js for efficient project, task, and user management. <br>
 🗄️ Integrated **MongoDB** for reliable database operations, data persistence, and transaction management. <br>
-👥 Implemented **project and employee management features**, enabling users to manage team members, projects, and tasks efficiently. <br>
+🎨 Built a **responsive and modern frontend** using React, Vite, and TailwindCSS for a seamless user experience. <br>
+👥 Implemented **project, employee, and task management features** to streamline team collaboration and project workflows. <br>
 🛡️ Applied secure authentication and authorization mechanisms to **protect user data and restrict access to authorized resources**.
 
 
