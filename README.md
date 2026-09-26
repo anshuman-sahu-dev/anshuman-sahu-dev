@@ -384,7 +384,7 @@ const anshuman = {
 ## 💼 Professional Experience
 
 ### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd. &nbsp; 
-**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025 &nbsp;|&nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://swad-e-dil.vercel.app/)**
+**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – Oct 2025 &nbsp;|&nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://swad-e-dil.vercel.app/)**
 
 | 🎯 Achievement | 📊 Impact |
 |---|---|
