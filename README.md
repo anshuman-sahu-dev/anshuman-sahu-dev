@@ -171,12 +171,19 @@ const anshuman = {
     <sub><b>DSA</b></sub>
   </td>
 
-  <td></td>
-  <td></td>
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/arrows-spin.svg?color=%23FFB000" width="31" alt="SDLC"/><br/>
+    <sub><b>SDLC</b></sub>
+  </td>
+
+  <td align="center">
+    <img src="https://api.iconify.design/fa6-solid/database.svg?color=%23A371F7" width="31" alt="DBMS"/><br/>
+    <sub><b>DBMS</b></sub>
+  </td>
+
   <td></td>
   <td></td>
 </tr>
-
 
 <!-- BACKEND -->
 <tr>
