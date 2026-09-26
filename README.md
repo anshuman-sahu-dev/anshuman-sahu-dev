@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=anshuman-sahu-dev&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/anshuman-sahu-dev?label=Followers&style=flat-square&color=00ff9c" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Brahmapur%2C%20Odisha%20🇮🇳-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20Karnataka%20🇮🇳-blue?style=flat-square" />
 </p>
 
 ---
