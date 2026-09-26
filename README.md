@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=5000&color=00BFFF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Turning+complex+UI%2FUX+into+production-ready%2C+high-performance+web+experiences+%E2%9C%A8" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=5000&color=00BFFF&center=true&vCenter=true&width=850&lines=%E2%9C%A8+Building+scalable%2C+secure%2C+and+high-performance+full-stack+web+applications+%E2%9C%A8" alt="Subtitle" />
 </h3>
 
 <br/>
