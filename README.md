@@ -422,7 +422,7 @@ const anshuman = {
 
 ### 🎓 Full-Stack Alumni Portal for Educational Institution   [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://alumni.nist.edu/)
 
-> *B.Tech Final Year Project — NIST University*  |  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)*
+> *B.Tech Final Year Project — NIST University*  |  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
 🌐 Developed a **full-stack alumni engagement platform** to connect alumni, students, and the institution through structured networking and collaboration. <br>
 🏆 Enabled the institution to **conduct workshops and hackathons** while providing opportunities for alumni-led mentorship and knowledge sharing. <br>
